@@ -8,3 +8,14 @@ authors:
 version: "1.0.0"
 date-released: 2026-09-26
 license: "MIT"
+repository-code: "https://github.com/AREMUSUCCESS/peripheral-insecurity-nigeria"
+abstract: "This repository contains the reproducibility materials for an exploratory quantitative study examining the geographic relationship between recorded insecurity, socioeconomic deprivation, settlement structure, and household-reported security experiences across Nigeria's 36 states and the Federal Capital Territory. The analysis integrates 2025 ACLED recorded events and fatalities, Nigeria Multidimensional Poverty Index data, WorldPop settlement data, and household-reported security-related shocks."
+keywords:
+  - Nigeria
+  - insecurity
+  - conflict exposure
+  - multidimensional poverty
+  - settlement structure
+  - ACLED
+  - household security
+  - geographic analysis
