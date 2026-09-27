@@ -1,0 +1,19 @@
+Research_question,Analysis,Measure,Statistic,Value,P_value,N,Interpretation
+RQ1: Geographic distribution,ACLED 2025 state-level rates,Event rate,Range,"0.23–21.58 per 100,000",,37,Recorded insecurity exposure varies substantially across states.
+RQ1: Geographic distribution,ACLED 2025 state-level rates,Fatality rate,Range,"0.06–64.80 per 100,000",,37,Fatality intensity varies substantially and does not perfectly track event frequency.
+RQ2: Socioeconomic deprivation,Pearson correlation,MPI vs ACLED event rate,r,0.20446300694248692,0.2247908188527461,37,Weak positive association; statistically uncertain.
+RQ2: Socioeconomic deprivation,Spearman correlation,MPI vs ACLED event rate,rho,0.09199762957360132,0.5881329929893436,37,Rank-order association; see coefficient and p-value.
+RQ2: Socioeconomic deprivation,Pearson correlation,MPI vs ACLED fatality rate,r,0.22627690647610565,0.17807990172350588,37,Weak positive association; statistically uncertain.
+RQ2: Socioeconomic deprivation,Spearman correlation,MPI vs ACLED fatality rate,rho,0.22703023277505993,0.17660099775128038,37,Rank-order association; see coefficient and p-value.
+RQ3: Settlement structure,Pearson correlation,Urban footprint vs ACLED event rate,r,-0.29339794596042873,0.07799595429040906,37,Negative association; statistically uncertain under Pearson correlation.
+RQ3: Settlement structure,Spearman correlation,Urban footprint vs ACLED event rate,rho,-0.4400189663347558,0.006425338928271372,37,Rank-order association; see coefficient and p-value.
+RQ3: Settlement structure,Pearson correlation,Urban footprint vs ACLED fatality rate,r,-0.2864403120527052,0.08565636545155283,37,Negative association; statistically uncertain under Pearson correlation.
+RQ3: Settlement structure,Spearman correlation,Urban footprint vs ACLED fatality rate,rho,-0.47581792318634425,0.0029149500905155164,37,Rank-order association; see coefficient and p-value.
+RQ4: Household-reported security,Pearson correlation,NBS security shocks vs ACLED event rate,r,0.5545531073595985,0.00036853729000248947,37,Moderate positive association.
+RQ4: Household-reported security,Spearman correlation,NBS security shocks vs ACLED event rate,rho,0.5443338074917021,0.0004962293111647631,37,Moderate positive rank-order association.
+RQ4: Household-reported security,Pearson correlation,NBS security shocks vs ACLED fatality rate,r,0.47014668276608096,0.0033224445632297353,37,Moderate positive association.
+RQ4: Household-reported security,Spearman correlation,NBS security shocks vs ACLED fatality rate,rho,0.5365101944049312,0.000619219554698203,37,Moderate positive rank-order association.
+RQ4: Borno sensitivity,Borno excluded,NBS security shocks vs ACLED event rate,Pearson r,0.5623246818208806,0.0003577501678480987,36,Positive association remains after excluding Borno.
+RQ4: Borno sensitivity,Borno excluded,NBS security shocks vs ACLED event rate,Spearman rho,0.5338481338481339,0.0007988173269516265,36,Positive rank-order association remains.
+RQ4: Borno sensitivity,Borno excluded,NBS security shocks vs ACLED fatality rate,Pearson r,0.592196868223219,0.00014191628631408135,36,Positive association remains after excluding Borno.
+RQ4: Borno sensitivity,Borno excluded,NBS security shocks vs ACLED fatality rate,Spearman rho,0.5263835263835264,0.0009747784454521319,36,Positive rank-order association remains.

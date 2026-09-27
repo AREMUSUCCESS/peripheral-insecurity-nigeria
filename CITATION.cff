@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Peripheral Insecurity in Nigeria: Examining the Relationship Between Conflict Exposure, Socioeconomic Deprivation and Settlement Characteristics"
+type: software
+message: "If you use the code or reproducibility materials in this repository, please cite the repository and the associated research paper."
+authors:
+  - family-names: Odewole
+    given-names: "Ridwan Oluwadamilare"
+version: "1.0.0"
+date-released: 2026-09-26
+license: "MIT"

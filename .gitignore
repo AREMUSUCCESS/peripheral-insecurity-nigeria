@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw/restricted research data
+/data/raw/
+*.dta
+*.zip
+*.csv
+
+# Local/private project files
+*.env
+.env
+credentials.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+
+!outputs/tables/Master_Results_Table.csv
+!outputs/tables/Research_Question_Evidence_Synthesis.csv
+!outputs/tables/RQ4_Borno_sensitivity.csv
+!outputs/tables/RQ4_correlations.csv
+!outputs/tables/RQ4_state_security_shocks.csv
