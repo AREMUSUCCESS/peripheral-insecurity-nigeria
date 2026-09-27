@@ -27,7 +27,7 @@ The study is observational and state-level. It does not make causal claims.
 
 ### Reproducibility
 
-The main reproducibility notebook is in `notebooks/01_data_validation.ipynb`. It is designed to run from the project's `notebooks/` directory and expects the project data directories described in the notebook.
+The main reproducibility notebook is in `notebooks/01_data_validation_cleaned.ipynb`. It is designed to run from the project's `notebooks/` directory and expects the project data directories described in the notebook.
 
 Raw source datasets are **not redistributed in this repository**. Users should obtain source data directly from the relevant providers and comply with their access and use conditions.
 
